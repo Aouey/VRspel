@@ -4,9 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Enemy
-  - RedKey
   - BlueKey
+  - RedKey
   layers:
   - Default
   - TransparentFX
@@ -16,9 +15,9 @@ TagManager:
   - UI
   - 
   - 
-  - Player
-  - PointerGrabbableObject
-  - Pl
+  - 
+  - 
+  - 
   - 
   - 
   - 
