@@ -21,7 +21,7 @@ public class Variables : MonoBehaviour
             HasBlueKey = !HasBlueKey;
         }
 
-        if ()
+        if (Red == true)
         {
             HasRedKey = !HasRedKey;
         }
