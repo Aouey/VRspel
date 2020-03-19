@@ -115,7 +115,11 @@ MonoBehaviour:
   m_MinSize: {x: 677, y: 492}
   m_MaxSize: {x: 14001, y: 14042}
   vertical: 0
+<<<<<<< HEAD
   controlID: 2127
+=======
+  controlID: 3098
+>>>>>>> master
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +144,11 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 2128
+=======
+  controlID: 3099
+>>>>>>> master
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,7 +173,11 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 221}
   m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 2195
+=======
+  controlID: 3100
+>>>>>>> master
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -453,9 +465,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: 0, y: 4.76, z: 9.76}
     speed: 2
     m_Value: {x: 0, y: 4.76, z: 9.76}
+=======
+    m_Target: {x: -6.6729794, y: 3.0313396, z: 4.3000355}
+    speed: 2
+    m_Value: {x: -6.6729794, y: 3.0313396, z: 4.3000355}
+>>>>>>> master
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -501,13 +519,21 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.41740888, y: -0.22628638, z: 0.10814273, w: 0.87342775}
+    m_Target: {x: -0.3309306, y: -0.24431655, z: 0.08912614, w: -0.9071213}
     speed: 2
+<<<<<<< HEAD
     m_Value: {x: 0.41740754, y: -0.22628565, z: 0.10814238, w: 0.87342495}
   m_Size:
     m_Target: 35.489876
     speed: 2
     m_Value: 35.489876
+=======
+    m_Value: {x: -0.32793814, y: -0.24730384, z: 0.08937619, w: -0.907364}
+  m_Size:
+    m_Target: 30.704363
+    speed: 2
+    m_Value: 32.151165
+>>>>>>> master
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -608,8 +634,13 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 12340000
     m_LastClickedID: 13330
+=======
+    m_SelectedIDs: 0c340000
+    m_LastClickedID: 13324
+>>>>>>> master
     m_ExpandedIDs: 000000000034000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
