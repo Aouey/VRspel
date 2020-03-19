@@ -4,15 +4,11 @@ using UnityEngine;
 
 public class Variables : MonoBehaviour
 {
-    bool HasRedKey;
-    bool HasBlueKey;
+    public static bool HasRedKey = false;
+    public static bool HasBlueKey = false;
 
     // Start is called before the first frame update
-    void Start()
-    {
-        HasRedKey = false;
-        HasBlueKey = false;
-    }
+   
 
     public void ChangeKey(bool Blue, bool Red)
     {
