@@ -19,10 +19,13 @@ public class evElse : MonoBehaviour
         {
             case ("BlueKey"):
                 PickUpKey(other, BlueKey);
+                Variables.HasBlueKey = true;
                 break;
             case ("RedKey"):
                 PickUpKey(other, RedKey);
+                Variables.HasRedKey = true;
                 break;
+
         }
     }
 

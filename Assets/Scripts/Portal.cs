@@ -8,11 +8,11 @@ public class Portal : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
-            if (Variables.HasRedKey)
+            if (Variables.HasRedKey || Variables.HasBlueKey)
             {
                 Destroy(gameObject);
             }
-           
+
         }
     }
 }
